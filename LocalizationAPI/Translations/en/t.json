@@ -1,0 +1,10 @@
+{
+  "create_account": "Create Account",
+  "login_button": "Login",
+  "login_password": "Password",
+  "login_subtext": "By continuing, you agree to our User Agreement and Privacy Policy.",
+  "login_title": "Log In",
+  "login_username": "Username",
+  "self_presentation": "My name is {{myName}} and I'm from {{myCountry}}.",
+  "welcome_msg": "Welcome to {{app}}"
+}
